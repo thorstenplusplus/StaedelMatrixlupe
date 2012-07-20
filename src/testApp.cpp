@@ -3,6 +3,8 @@
 //--------------------------------------------------------------
 void testApp::setup(){
 	
+    // aha
+    
 	matrixelementeX =120;
 	matrixelementeY =80;
 	//Exponat *neuesExponat = new Exponat();

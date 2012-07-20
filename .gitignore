@@ -27,3 +27,6 @@ xcuserdata
 *.M4V
 *.mpg
 *.MPG
+bin/emptyExampleDebug.app/Contents/Info.plist
+
+bin/emptyExampleDebug.app/Contents/MacOS/emptyExampleDebug
